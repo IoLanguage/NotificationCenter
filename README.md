@@ -14,3 +14,8 @@ Notification clone setSender(self) setName("FeedDownloadedFile") post
 // to stop listening
 listener stop
 ```
+
+# Installation
+```
+eerie install https://github.com/IoLanguage/NotificationCenter.git
+```
