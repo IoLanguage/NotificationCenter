@@ -1,0 +1,15 @@
+{
+  "name":         "NotificationCenter",
+  "version":      "0.1",
+  "description":  "An NotificationCenter similar to the one found in Apple's FoundationKit.",
+  "author":       "",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["NotificationCenter"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
